@@ -4,4 +4,4 @@ and *sometimes* other things.
 
 Read more at [matthewhowell.net](https://www.matthewhowell.net).
 
-Mastodon: [@matthewhowell@indieweb.social](https://indieweb.social/@matthewhowell)
+Mastodon: <a href="https://indieweb.social/@matthewhowell" rel="me">@matthewhowell@indieweb.social</a>
