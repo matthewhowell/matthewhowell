@@ -4,4 +4,4 @@ and *sometimes* other things.
 
 Read more at [matthewhowell.net](https://www.matthewhowell.net).
 
-Mastodon: @matthewhowell@indieweb.social
+Mastodon: [@matthewhowell@indieweb.social](https://indieweb.social/@matthewhowell)
