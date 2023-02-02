@@ -1,7 +1,4 @@
-Matthew Howell is a human who tries <br />
-to make software <br />
-and *sometimes* other things.
+Matthew Howell is a person trying to make nice websites
+<br />and–*sometimes*–other things.
 
-Read more at [matthewhowell.net](https://www.matthewhowell.net).
-
-Mastodon: <a href="https://indieweb.social/@matthewhowell" rel="me">@matthewhowell @indieweb.social</a>
+More at [matthewhowell.net](https://www.matthewhowell.net).
